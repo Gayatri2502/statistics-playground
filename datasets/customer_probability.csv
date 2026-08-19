@@ -1,0 +1,16 @@
+CustomerID,VisitedWebsite,ClickedAd,ReturningCustomer,Weekend,CouponSent,Purchased
+1,Yes,Yes,Yes,Yes,Yes,Yes
+2,Yes,Yes,No,No,Yes,Yes
+3,Yes,No,Yes,No,No,No
+4,No,No,No,No,No,No
+5,Yes,Yes,Yes,Yes,Yes,Yes
+6,Yes,No,No,Yes,Yes,No
+7,Yes,Yes,Yes,No,Yes,Yes
+8,No,Yes,No,Yes,No,No
+9,Yes,Yes,No,Yes,Yes,Yes
+10,No,No,No,No,No,No
+11,Yes,Yes,Yes,No,Yes,Yes
+12,Yes,No,Yes,Yes,No,No
+13,Yes,Yes,Yes,Yes,Yes,Yes
+14,No,Yes,No,No,No,No
+15,Yes,Yes,No,Yes,Yes,Yes

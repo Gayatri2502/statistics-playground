@@ -1,0 +1,16 @@
+EmailID,ContainsFREE,ContainsLINK,ContainsMONEY,SenderKnown,Spam
+1,Yes,Yes,Yes,No,Yes
+2,Yes,Yes,No,No,Yes
+3,No,No,No,Yes,No
+4,Yes,No,Yes,No,Yes
+5,No,Yes,No,Yes,No
+6,Yes,Yes,Yes,Yes,Yes
+7,No,No,No,Yes,No
+8,Yes,No,No,No,Yes
+9,No,Yes,Yes,No,Yes
+10,No,No,No,Yes,No
+11,Yes,Yes,No,Yes,No
+12,Yes,Yes,Yes,No,Yes
+13,No,No,No,Yes,No
+14,Yes,No,Yes,No,Yes
+15,No,No,No,Yes,No
